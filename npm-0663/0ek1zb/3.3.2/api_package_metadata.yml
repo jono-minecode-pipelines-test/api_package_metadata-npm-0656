@@ -1,0 +1,45 @@
+{
+    "name": "0ek1zb",
+    "version": "3.3.2",
+    "description": "0ek1zb",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "stevenadams38dw"
+    },
+    "license": "ISC",
+    "_id": "0ek1zb@3.3.2",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.5.2",
+    "dist": {
+        "integrity": "sha512-JFRpI9sIyuK6YZE+dldgSn+B5+7yLfpqPMeUCTG+wvD+l6sCh1QLxTElA4HQosbrBGY1q8WFnu+k09sGrSX10A==",
+        "shasum": "d2e4820c06ff5a8b546fcc46b485491ff1fd3e40",
+        "tarball": "https://registry.npmjs.org/0ek1zb/-/0ek1zb-3.3.2.tgz",
+        "fileCount": 2,
+        "unpackedSize": 983,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBeT9BfWheZxpzzNpueLfaxlv5biDaWecBfY4LpeWT1UAiBaD21aWkzZiUCH/Qtfs0DyirJlnaS6m4cPUb8fy+P4CQ=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "stevenadams38dw",
+        "email": "stevenadams38dw@cultureleb.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "stevenadams38dw",
+            "email": "stevenadams38dw@cultureleb.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0ek1zb_3.3.2_1683465581205_0.05738500380263978"
+    },
+    "_hasShrinkwrap": false
+}

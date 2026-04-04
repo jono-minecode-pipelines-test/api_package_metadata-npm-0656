@@ -1,0 +1,37 @@
+{
+    "name": "0q",
+    "version": "0.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "_id": "0q@0.0.0",
+    "dist": {
+        "shasum": "08c9bde876f294ae808ee882040fed420de71571",
+        "integrity": "sha512-YSFEFz1w/iF6045jlVUa3+KW4uas9QSg4WFIJhSaukGm9Xa+Wwda1zJiHgrGfEFOboVH60ZpwkTV4A7WCS1QEA==",
+        "tarball": "https://registry.npmjs.org/0q/-/0q-0.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 83,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgykuACRA9TVsSAnZWagAABIkQAIuM7UaFchUhdNYnr6ZA\n0y3b2o2jR+iQmHMaz+NGNzK+XnHI/PvWknXGZT3JsYcQtepcdb1JckgJI/he\nll46EE9nyNXNwmHyB4dQP08ICTz4kXplyMR+bviP7yYX33ykEZquh8PlLd6R\nUINLlsSEPn6sqzE+t6r/gqxxuvUz6CdemDs+wmjo0BoB9eqjwef2duZFvUUH\nB+NekRdQjNh7YaPxikKMC6vMCKVOLxeZLXMr7siCIQtqUWDTG28qNymZBz+U\ntg9iWi3G+WzKZ5jb5owf6LtoT4PH4j+/Xz+CpCmMw6lctaNOXrZ+Mu1uaBRC\n+mcjsl18ymAc0jow2EPPFp2V9mNH9GSTL0hDzwsPZ5tG9zek+SUFzRiH5z4T\nwd7Vmo1l+1Vfjy24xGPx8hp1B+WxU0BQIrVSWDucIPCdY6fdmb0hCM4sFDzJ\n8xbb6evaOx2MYoGAC1poRsGXcprlU6ruEo8Nw3E7Pd/O6ACN6LZuWVEc++I0\n6//NGED6c8QWzXCXqX9SRruNdMADgC+5TJos0cNtxcDAuFEJWuDeoAlUFUj1\nKz72J8kog4O9mGFjUpWLFjzltgEyThkGFZLBFcERQMqh/EoL6YxblNyyVPwh\n0q6axPFXk4c9SShT3KMojexP6/UbRdSuazCga2IbiKj9Tug5D01NuE3T3A59\nBvka\r\n=60Nq\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIGk1ItZF2ctR8R3GJbjj5RpBGwG9YWzvvDQqsEP+0QBqAiEAibW9cLYYly3eprZcRDFPsrDQtuZiinP5aOZxoC+UOck="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "configurator",
+        "email": "configurator@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "configurator",
+            "email": "configurator@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0q_0.0.0_1623870336364_0.6323727710813902"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,50 @@
+{
+    "name": "06_why_utils_myself",
+    "version": "1.0.0",
+    "keywords": [
+        "math",
+        "format",
+        "why"
+    ],
+    "author": {
+        "name": "why"
+    },
+    "license": "MIT",
+    "_id": "06_why_utils_myself@1.0.0",
+    "maintainers": [
+        {
+            "name": "axihh",
+            "email": "axihh134@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "40aa622e860f1d52e1cf0ea148333f150994b87a",
+        "tarball": "https://registry.npmjs.org/06_why_utils_myself/-/06_why_utils_myself-1.0.0.tgz",
+        "fileCount": 4,
+        "integrity": "sha512-vPJUFR3BHmz+GOKfZoLQLTZbHdhuVe9SB50MIQgHOhgZMdMghEF690SSm5IPtqdyQ2+ejULrUKFgxpsokojQIw==",
+        "signatures": [
+            {
+                "sig": "MEUCICS3Gk/XZAbG0IVxu+CkYpvvN/svg1ecuW4H9yJWltYQAiEA6BZpW8Y9IGaTgi5EXOqLETl9TgOrBH+dTN3VS9nvtIg=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 938
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "_npmUser": {
+        "name": "axihh",
+        "email": "axihh134@gmail.com"
+    },
+    "_npmVersion": "10.7.0",
+    "description": "a javascript utils",
+    "directories": {},
+    "_nodeVersion": "18.20.3",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/06_why_utils_myself_1.0.0_1743161209049_0.45189930094057296",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

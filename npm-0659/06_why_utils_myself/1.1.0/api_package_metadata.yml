@@ -1,0 +1,53 @@
+{
+    "name": "06_why_utils_myself",
+    "version": "1.1.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "math",
+        "format",
+        "why"
+    ],
+    "author": {
+        "name": "why"
+    },
+    "license": "MIT",
+    "description": "a javascript utils",
+    "dependencies": {
+        "06_why_utils_myself": "^1.0.0"
+    },
+    "_id": "06_why_utils_myself@1.1.0",
+    "_nodeVersion": "18.20.3",
+    "_npmVersion": "10.7.0",
+    "dist": {
+        "integrity": "sha512-zSAaJLjFtb6PYYJXUUFqgD/Es8v4ucIM2IhJf10IpgMDRJOvFrKQYrKZpM+SzL8BeWG0VeXvGbFSKh01qxZQgg==",
+        "shasum": "0990d8d09ba531437e238024ee1fe433ea3f2986",
+        "tarball": "https://registry.npmjs.org/06_why_utils_myself/-/06_why_utils_myself-1.1.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 1295,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEUCIQCf9bSAxPSth9+75KapCQM6Ax83lG/GOjNlKl8p4rixdQIge0qI8ttcNvmco+mkPb0Byg5HYpZNw0in5HHXyYCTR7g="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "axihh",
+        "email": "axihh134@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "axihh",
+            "email": "axihh134@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/06_why_utils_myself_1.1.0_1743163173975_0.23760719047785606"
+    },
+    "_hasShrinkwrap": false
+}

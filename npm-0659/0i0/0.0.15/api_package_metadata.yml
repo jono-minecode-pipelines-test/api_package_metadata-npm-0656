@@ -1,0 +1,64 @@
+{
+    "name": "0i0",
+    "version": "0.0.15",
+    "main": "./dist/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/EdgeWalkerr/0i0.git"
+    },
+    "author": {
+        "name": "shenxiang.feng",
+        "email": "shenxiang.feng@binance.com"
+    },
+    "license": "MIT",
+    "scripts": {
+        "build": "tsc -w"
+    },
+    "dependencies": {
+        "react": "^16.13.1",
+        "zustand": "^3.1.3"
+    },
+    "devDependencies": {
+        "@types/react": "^16.9.53",
+        "typescript": "^4.0.3"
+    },
+    "gitHead": "43e59130ae0b2f29daa7e463e763b19ec400abca",
+    "description": "use redux like api, but achieve context like api nested in component",
+    "bugs": {
+        "url": "https://github.com/EdgeWalkerr/0i0/issues"
+    },
+    "homepage": "https://github.com/EdgeWalkerr/0i0#readme",
+    "_id": "0i0@0.0.15",
+    "_nodeVersion": "14.4.0",
+    "_npmVersion": "6.14.5",
+    "dist": {
+        "integrity": "sha512-ySyRfjhryWslgFUDbN2LlFiFGSQPeV3R8EXBnslvRnXw6R2Wjry+rgLrJYpxYHXUNyyrVVRi+w8dmZthzyzStQ==",
+        "shasum": "5283b635a0763a6abc652e34e039f1a6f0ae9333",
+        "tarball": "https://registry.npmjs.org/0i0/-/0i0-0.0.15.tgz",
+        "fileCount": 7,
+        "unpackedSize": 9739,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfjoV/CRA9TVsSAnZWagAAJqcQAIn57ol8d6Fnl2hj3kPP\n/RnzAtgo0NZ3HXD/DGZAOhepImpgb71Mx76z2uWAmLqWy92Wt23B00VfiowL\nhFjv+vogKVGZQAB52VryxsLfTp/R5xeeNSsxwSPs23XzKJ6zdFz3Cx0FzHgq\nHm8svpvt+bVL6RdbFiktS7iX4jrxyd3uc5VGRcZwtf/wyBvIhUN8d6Y+dEQI\nieCyj24qJ5oYFhj/D9qn8Y5YWVWBnaFOjMIYagaQw2lMT4EzIu0cNy3RIY/y\n3MP4h/Aq4sd+Y9Ict6zTFd17JZQA3E2dIfh4D7Zhz9mkwdlMEkbNNbarmmhF\nVBPB3XsaDkRpI8OfISQ9W43Nhj7nhMKnOoggOmiOwuz0Zwye7+0SGODXfD1I\nU9rO7qapRw/g29gue73GlQZWDbmWMm3B/OWUnIuXCdXMx7L7Q8X/JHHheBw0\nMDH8SWK1T6GtF+o2rLgFFUUY5y1zIQL+ZJlPV/4UCTHETKctPruYP0vV6RHP\nBMJsWL6nAgiPLctXXSuAGuhm4wvR/VsIXGAXw5tQ6zFHYRZP6yX0rNemtNvG\n9Nj0EQNtz6VULjbno+7as2O4TIxJof7Qqceg83alkFMDqqsGQjA4qx3RZX/A\nAfsoeLzmiZgfmWS/GPkXTYGCsmL3P0UC542CAsgxWAOkZTRlDvGSeu9wMyzn\ncO2f\r\n=uc/f\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCbEF8l6hCXgETIiLsAy98uqH5wVRMEil2Y3y18WH3npwIgApgJmPrc5VW+ycNA+x8euNfsJ3CL0VVCm8mkOfxc9v0="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "edgewalker",
+            "email": "2268317148@qq.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "edgewalker",
+        "email": "2268317148@qq.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0i0_0.0.15_1603175807315_0.3984185318282274"
+    },
+    "_hasShrinkwrap": false
+}

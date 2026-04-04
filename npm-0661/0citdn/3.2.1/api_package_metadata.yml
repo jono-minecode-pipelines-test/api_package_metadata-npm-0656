@@ -1,0 +1,45 @@
+{
+    "name": "0citdn",
+    "version": "3.2.1",
+    "description": "0citdn",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "michaelhernandez14mp"
+    },
+    "license": "ISC",
+    "_id": "0citdn@3.2.1",
+    "_nodeVersion": "16.14.0",
+    "_npmVersion": "8.5.2",
+    "dist": {
+        "integrity": "sha512-C0DXwiwud6pVOjIm4qHpWRGdJ3f14tiE7nzSSECDkFV/f0otdXVQIk3ImRacDjFV8U1hTuxVgzUNLCm+fpf+eA==",
+        "shasum": "fc5d5d5f3ea59c7446d39f41bc5eb69c5711304c",
+        "tarball": "https://registry.npmjs.org/0citdn/-/0citdn-3.2.1.tgz",
+        "fileCount": 2,
+        "unpackedSize": 785,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIC8UmKlqVRGi+lMFmoD5MjEtTEo5mbPRUpAI2ltnrJJlAiAgKRQBdZ5o1iBtoTfOKxYc7XT7inML3bvzgddQcNd5HA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "michaelhernandez14mp",
+        "email": "michaelhernandez14mp@cultureleb.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "michaelhernandez14mp",
+            "email": "michaelhernandez14mp@cultureleb.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0citdn_3.2.1_1683450703820_0.6598583361346888"
+    },
+    "_hasShrinkwrap": false
+}

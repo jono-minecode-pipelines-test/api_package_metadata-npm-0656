@@ -1,0 +1,43 @@
+{
+    "name": "08-1",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "08-1@1.0.0",
+    "_nodeVersion": "22.15.0",
+    "_npmVersion": "10.9.2",
+    "dist": {
+        "integrity": "sha512-GTmmKz4F4gdyijMX787FKRdpJuX20ChmIIIuTa0JbxYM83icGYnlMK0woRPtrW0GfLUXxrHgSNmBC6uwKzy7Qw==",
+        "shasum": "8d643d490e8936ca3a095d44591c2dc4c6d264ea",
+        "tarball": "https://registry.npmjs.org/08-1/-/08-1-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 386,
+        "signatures": [
+            {
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+                "sig": "MEQCIGmHKtxWW41u2zZKH90G1RTjZz4w1DIf3Wz3eRPyo7eBAiB2/4TKrGpvzoMZPaVbZ9to1Dtu01hI4MOjtK9fKAxsyg=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "liujiahao0610",
+        "email": "3219349284@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "liujiahao0610",
+            "email": "3219349284@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/08-1_1.0.0_1747378437989_0.05021462953388234"
+    },
+    "_hasShrinkwrap": false
+}
