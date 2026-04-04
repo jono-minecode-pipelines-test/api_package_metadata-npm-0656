@@ -1,0 +1,48 @@
+{
+    "name": "03-custom-liuxqb-lzw",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "user": "0.0.0"
+    },
+    "_id": "03-custom-liuxqb-lzw@1.0.0",
+    "_nodeVersion": "12.18.0",
+    "_npmVersion": "6.14.8",
+    "dist": {
+        "integrity": "sha512-UC69yoMH/+viGNSOi/i7AChv8FJFOvRgXcMh2njcfPkrb87IgonJ3jC82pJHTCOPXzNY3ivBAk1OfPIG3Z2FKg==",
+        "shasum": "fcedfda16a2f03c4e80400d6bbdcdf9910996d83",
+        "tarball": "https://registry.npmjs.org/03-custom-liuxqb-lzw/-/03-custom-liuxqb-lzw-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 475,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJgsaL9CRA9TVsSAnZWagAAEcoP/j0kZETNEwnb1KE1j/pb\n5nsplkdsqEnSzChGTXyVInhjHjWCzj39JXssToWA63vPaV7Afb+Bma3utRiY\n5yTfq46hYFsB25i/e1DNbdO5j21IZ53Nh6P+JcxcepVbYrB8KFd9HEWvWkSX\nJpbsTXMLBMYjQ6mzNiOyWkjV8PhrN19FyLOa/FTkN+7NW2qBvkPmVamCaIaC\n2ScCl0HlnIsbwzPEXhNGNMZCykwSt+F/yHLGbu6aCZxM5N7Y+9yTAgVhsVdZ\njQcdUCJDuB5KLdII1aetj0Lwjln/VctQftD6SSVVgnWLrrNEno2AfjMIu6bW\n1HzmvHWQRj5mO36YzkgPKz+R93GBZtXlviAcvxgCKM2lGJvfaFmKx1yJi3Oq\nSzIFr8rUteEJ5SR9SGtsxZxUmR2aEV6e58D1uDdI5EwY3b8OaTy07+ZOEVxT\nPuitpxBIRg95KtXvwRzGEpHqYLKawhQLbLVL8a3eWjFQb3pBCK8cSKlbEpb7\nEuoNQ/tb6oeVIVrWk9843q+oFTT6ckIh6XYpVu73kKEbo5/5mkZSwbiPfXkQ\n/rdBIMUIs/H4vQmOB2fncknni3WGCNgvje9Ehv1ZE8vE5l7y8PeRVtl0TrDS\nm/49661j2U+t0HCR9ZNUc6TVgjDM32rWRw4zRTFoVeY3BdIFxYPfWvZf0vXM\n1Utl\r\n=mGZw\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBsdSKQI1MUJHP6o6UbD+rH+co3e+aqyxwJsvd7U/1oYAiAsKNrYT0X8XmjCgEzbyu1BqUcWjI2LQY/Ezc0jZChWXQ=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "liuxqb",
+        "email": "lan_ziwen@163.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "liuxqb",
+            "email": "lan_ziwen@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03-custom-liuxqb-lzw_1.0.0_1622254333407_0.42060500553837454"
+    },
+    "_hasShrinkwrap": false
+}

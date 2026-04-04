@@ -1,0 +1,49 @@
+{
+    "name": "03-customcopy",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "lodash": "^4.17.20"
+    },
+    "gitHead": "d43b69043878988430f575821c654a99a8ef5321",
+    "_id": "03-customcopy@1.0.1",
+    "_nodeVersion": "16.13.0",
+    "_npmVersion": "8.1.0",
+    "dist": {
+        "integrity": "sha512-IyVe/nXxa6+0aoEx5YHdcCXlQALSfGbqcDIkSXUdYUalrAqa2CVLR+T6XmZJ6qbVeMuWXbw6/Mh4IPxY+bJRJA==",
+        "shasum": "693a48686b9bec0a497d9e7d0eab14583a88eb61",
+        "tarball": "https://registry.npmjs.org/03-customcopy/-/03-customcopy-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 888,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh2R+fCRA9TVsSAnZWagAAPxsP/2JscqFCUFdaeJhfR/Yw\n98ImovK2iaBXUyy6hAXe5WhiGe3TQgCXOa2YxrDjH9Tnn/6QGV4Pn9NPINVQ\nsYbEW63OeWGg4eMsQDedMCxHqCMhsyY2+jcA3NAgqR66SNndLVYZI3w5Avky\nPmjD5GzuCOOMedw0e71VJso/HdI8cqu3cfJnRpMTwdvDFFyPWRadvsH1P1R9\nvW29Tgmba8CVSsCuD3Enq47xeXgUJPfh+wacNsRRqqEsEXazJycO9Fu4BitF\nB586YyKT78tS1Acbchvo09O5bt0fJZoWjL2Jmp5LVOF3ThidUE1LI2ktz5yP\naDjfAj4wSXY9x1M+5u10jIxwu2m2kJeJ7tm1R8mAOxJM9kH3m0qddw6nGpWM\nlNHetFVcEQkY1Mahg2B5WclP1oBDiOrfEqS97cSBwLNP5uo87ri3Qp7nkWj6\nipl+U7MM6WP58Fef10eHVpEQcJfyjFKOKj/Io/r34mOUgO6o6YO42bNeovZl\n7H6BcgjiKkPSV7/VhJYzHZpeE6pXEA9MZ/eK9zxOfSvFWcz7AaU5onOY9ypo\nC0a71LgPwJmekiDSYLC5C0OcB6n+eAiuB2iSQFOtCWP6KrV0MSg3SVM5n6Xb\nopyIG/xl5nD+no1JX5HdZf2AauT1tPHDAnPyvrYE7i2A3VgZOHnmiJ802usr\nsaVc\r\n=cYod\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCYmOe14tNhKOszooKMD/5Vz9YIq+fm6s/DA26Y3HdU1AIhAPWgyc/XFZEwYpkIsmhONxU0r9iH9yRXF94IN4V5IzPt"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "wzh665",
+        "email": "2661345628@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "wzh665",
+            "email": "2661345628@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03-customcopy_1.0.1_1641619359286_0.5826871457836311"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,50 @@
+{
+    "name": "04-code",
+    "version": "1.0.0",
+    "description": "",
+    "main": "05-es6\u4e2d\u58f0\u660e\u53d8\u91cf\u7684\u65b9\u5f0f.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.18.0"
+    },
+    "_id": "04-code@1.0.0",
+    "_npmVersion": "5.6.0",
+    "_nodeVersion": "8.11.2",
+    "_npmUser": {
+        "name": "rainwang",
+        "email": "1355653478@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-mL+6IN1aN2A0ndRLOyYBSAkaZQhrA4rwjkInxC6VcNATH138BwUycDP9jBfepJ+1nVAoJbXhCE+w7vVSRg/qCw==",
+        "shasum": "5a6e9bfd11f3436bf96e86baace2105bd0068748",
+        "tarball": "https://registry.npmjs.org/04-code/-/04-code-1.0.0.tgz",
+        "fileCount": 73,
+        "unpackedSize": 217347784,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbkodECRA9TVsSAnZWagAARl8P/3g7mJAmYEKVGjbEg6ne\n3A+vuQnhmwbwY2zE/UR54oiXnEWmneS3NbgvLsvEnO2b+Ftn4zzE/V1d1ydB\ngpSZxZl5VsHe381os1sh2vSa+FtWOM4Lt4S/eMM9ybN1/zY2DWGo8iYDU6ob\nT41ALpxDavy+1hz+hrnCtPF7msdfI4q/PrdfZsDGzO1ESmFLL0lNijKIl1kQ\nN/I9LFWhCuVoP84t8p/gxpPak8I38SIZrVgJ1lTRDRP+y9+xaGTqKx209RAl\ntnWJohTS/SENolhKWUVhGCf2y6YAkck/Ovpx2gDb+oPH13jv9APED6yo9ldE\najjUfTX9gaaH6jC6fD5DbZd+zxCuMkKgAjXN/4WeCKFCd/okXYyhzi7Alv5J\nDzwjkph3waBJ4doZtFgSzRIJRVxJTwKDEfeoGFkEZxFS/SL1ACEr7HGjrcdM\nRTAuywcoA4hWqis2QhOY6ELpIpKEu7pA+IM55BbKMDB7GA+Wz+8y+3LaQSam\nK8QoYwOh73mgUT0wxSCb0euhjh0GAJzb/XnDFs7Wkg4zxUhNVkS/1MTN9jyC\nsPzZKDWn64WpXYwfC0dFJPmsid4W2fqSmw0VVHCyLbFBDoJLDS9BQnXD3m46\nhr37ZGHBETrdvXytgrS/5jLNHgIvP0mKBQ6bLOe+lzJ8xkVaL7A0Svb4p7ko\nCguj\r\n=maEw\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC3XsInCtWSwIfYiTYqBZ7crAiF6jH3ydC6Zf99YaipJgIhAK3yvDa6bK6f8HBwIC+c99FXzi9d8BvVxC9Okyihz+3f"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "rainwang",
+            "email": "1355653478@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/04-code_1.0.0_1536329538672_0.3467556830393339"
+    },
+    "_hasShrinkwrap": false
+}

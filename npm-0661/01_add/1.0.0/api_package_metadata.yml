@@ -1,0 +1,52 @@
+{
+    "name": "01_add",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack",
+        "prepublish": "webpack"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "terser-webpack-plugin": "^1.4.1",
+        "webpack": "^4.39.0",
+        "webpack-cli": "^3.3.6"
+    },
+    "_id": "01_add@1.0.0",
+    "_npmVersion": "6.1.0",
+    "_nodeVersion": "8.9.3",
+    "_npmUser": {
+        "name": "summer2017",
+        "email": "1911313038@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-aXeYoFT39ahYsz4CPVQXAqC0X3Ii8qdECYLJZ8pOKA/1SNU840sq2J/BbW6JhOZzaNf6KPkwVPp+0QG3JbEJ1A==",
+        "shasum": "150edc6e2e7b94811edbb0ced392532000af7f84",
+        "tarball": "https://registry.npmjs.org/01_add/-/01_add-1.0.0.tgz",
+        "fileCount": 11,
+        "unpackedSize": 31138,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdQ454CRA9TVsSAnZWagAAI/sP/1f1Vb3C61x+GAnXQ8Bs\nbMey8pNeuweQnT5j79PrBZ6NU2O4PYTwlw/5s0HLX72gSd6L9Pk9jTxAANb8\nNSyBDQq6gHnV7chohueavBfFlbIgs3/+MX1mNtF4/3TqPFUTuDn9pZI+mHng\noj2tQPBBvkSTOyTj0tAq/WUG/qgnlUIUy6s8QnCwrUBrcLnf4lgYXqDPWR+Q\nA6MlyZIn16TYSNGq3ZhFGTeEU7D8CCAzQjGzM5Yta3DFvj41WoVvQI4l75f1\n3bR9IYB/8nZzlgBfSQLMCdkdW6hlXRNSia9TP9iIWuSK2nc1QtfzcROzcqpV\nwjlalxVFJYAEBiWqU1WmpZNYSnVa8cx/oNXjvNwqhRkYs1yyS6U4n2gtU/Qy\nyJaNcrH5aBHVxmAjNunUVNxHXvY5cRc5vmajxDENW+qioW6dbqLwo9Rh/A3O\n1vD2geZ386pRTkvGW/rsQPdqeb2PDzqZsXmjLnvYXqRINr3dm97opCmriVkt\nzk609VytyHKKWyVxt+tyWq+hHqMQuSWQMZnkdjch3myp8YTO7aowmHESR5tv\nBwXTXYRfh4LIYt43FyQLGNpeZ973hCT5xg9zAMuhsFOPkLVhZZ+Vevi/1g2Z\nLwmkWtu0nxhJrjIo0UYfgOGajaY+c8D1nnoZMo5j4zIAYNFQWIuWbfiHJunZ\nmDjP\r\n=d6ng\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIBahsAO6gTOF9r8CiUrMlbDnefc61/K2OdZ8ZP651XIDAiEA4g3+j2BmiWS6ZoIFjGK5UuPLAhQRhmojVmFcVPCkC6g="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "summer2017",
+            "email": "1911313038@qq.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/01_add_1.0.0_1564708471660_0.6477273209440062"
+    },
+    "_hasShrinkwrap": false
+}

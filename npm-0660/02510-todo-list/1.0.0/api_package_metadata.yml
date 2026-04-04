@@ -1,0 +1,52 @@
+{
+    "name": "02510-todo-list",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "02510-todo-list": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.17"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "02510-todo-list@1.0.0",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-bSwdjGW0/6xSRpu9327To2wjs5FoNURmUe/GIXW82aTCkoPWfFKVbDwkb4Oh/wMoiYWk+LyBR2Nq5Va+JIi7Iw==",
+        "shasum": "5b59331ce1cf1ef75063f77e1d4b133faeb19c0b",
+        "tarball": "https://registry.npmjs.org/02510-todo-list/-/02510-todo-list-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14000,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDGs3b90x9Tpmo5say8F+8NVAmJCpziTGUfzcOv6UUNZwIgOHDHdsfDPEFxFlfBiqlZtc5LhA8//f9YpNpAJnfcVeo="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ahmed02510",
+        "email": "aali02510@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ahmed02510",
+            "email": "aali02510@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/02510-todo-list_1.0.0_1712136509002_0.5485251331461736"
+    },
+    "_hasShrinkwrap": false
+}

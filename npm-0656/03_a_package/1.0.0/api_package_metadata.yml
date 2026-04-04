@@ -1,0 +1,49 @@
+{
+    "name": "03_a_package",
+    "version": "1.0.0",
+    "description": "test publishing",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": {
+        "name": "sequix",
+        "email": "sequix@163.com",
+        "url": "https://github.com/sequix"
+    },
+    "license": "ISC",
+    "_id": "03_a_package@1.0.0",
+    "_npmVersion": "6.1.0",
+    "_nodeVersion": "8.11.3",
+    "_npmUser": {
+        "name": "sequix",
+        "email": "sequix@163.com"
+    },
+    "dist": {
+        "integrity": "sha512-aX52+HZlNPknr09bzGwQGeXV1cTmZiJgqum1KBEm2aT0bDeA8WBzYrBUg0N4rxLQLWhjAAmgYY3XQ3twNmtWYw==",
+        "shasum": "f62cba94ec1c7912b64e2c0511891da1799b71e5",
+        "tarball": "https://registry.npmjs.org/03_a_package/-/03_a_package-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 429,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbMDv9CRA9TVsSAnZWagAAif0P+QA0RxBMdilerQdt115K\nope8N91JeSeIRb6Py5nDIvzhvxf594yk2pYjWx+IQ0w097k0a48uzBa9iSoF\n1pLRC0EdGxl1J1twCs4BP2qvW/PSLFRk2Mr9SlJHTqm7e2ykaCdxtitYRnIo\njgVtEV4w3UBQMHgJEzN4RG/pkaytwnI1q16WVcz6TIzhc03ErLvXxasYs6sd\neOFny+7jZPRfCJ9ZkxbMpHHs0aV4NboN6YgoWzuQ4k8W64R9SuxKGag6RHIT\nRkBcrCFkSj+wO+zEPpJJr2ojkhaX6IY2xsNcECmC2hiAMKSMjLTxjRdfXiV3\nLHjbNxy21S3MvwHL6G1uoOSUC5KNDG/RoqLNDTvOJ8zuOyGvGhLFo6g/0Elv\nxHaXhEvGTyXiZj+bGwl6kGJUgrVgIz6ZWjPBvTqNk0JyUYy/vvtM9I+Aj7u0\nhCElTQZdcX6kU2rbZ+Kiv5zCRUZ+HnewVClHg9Z6hGtgV0SkCRRskVFAfDZH\npvB0rVV2fRe+B0RuIz3DZnMa9ySI5PmDp6ZhhGshrRNKkjhiPCEA9y9X3heH\npkWONUJVXz9DdiDWV9R97LaRR5KAtKeFWAM7XmBjqwSUu0D6Rr9rMv3h2uPG\nd80s8/dTcbvkbYoUGjvR1+5ARsNiG1kD6/rVzDgIe4t3uhft+Ruc7nRggQuR\nc2lK\r\n=gP6c\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDcqtnZlLPUm8F/KpzEKrEXjNYyLt9Z1rqr8Kfixpv9oQIgDM/AjegUvCKQj3BxxWLrlgWuCLlVR114VO/NQQwM/DQ="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "sequix",
+            "email": "sequix@163.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/03_a_package_1.0.0_1529887741671_0.5916782962133325"
+    },
+    "_hasShrinkwrap": false
+}

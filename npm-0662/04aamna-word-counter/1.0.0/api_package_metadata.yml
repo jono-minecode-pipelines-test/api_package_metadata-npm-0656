@@ -1,0 +1,53 @@
+{
+    "name": "04aamna-word-counter",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "04aamna-word-counter": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.20"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "04aamna-word-counter@1.0.0",
+    "_nodeVersion": "21.6.2",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-j79skDZVddImFH/hO/TT2u5zNYpAIxs4msS/o4p9owH/r10MAoC5yQKNKEN0JKy6QcVeU5UvWNjIA1q9q2rSxQ==",
+        "shasum": "2340340c2bce8d6eea3bd5f44a5d0519ddaf0bcf",
+        "tarball": "https://registry.npmjs.org/04aamna-word-counter/-/04aamna-word-counter-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14418,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDTeLvDBAwhAjtfqileWHcFUy3RKGc4BnyoyIC9fa/WVwIgGOQANeAJfITRmG6oThqcaHX/2ZhpowFgHQUtZz06CIU="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "aamnarana",
+        "email": "ranasanam464@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "aamnarana",
+            "email": "ranasanam464@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/04aamna-word-counter_1.0.0_1715354621770_0.8405941287517382"
+    },
+    "_hasShrinkwrap": false
+}
