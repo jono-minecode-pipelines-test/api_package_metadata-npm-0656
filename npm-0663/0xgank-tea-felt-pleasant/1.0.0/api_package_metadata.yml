@@ -1,0 +1,47 @@
+{
+    "name": "0xgank-tea-felt-pleasant",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "tea-helper": "^1.2.5",
+        "tea-rug": "^1.0.0"
+    },
+    "_id": "0xgank-tea-felt-pleasant@1.0.0",
+    "_nodeVersion": "20.12.2",
+    "_npmVersion": "10.5.0",
+    "dist": {
+        "integrity": "sha512-I93pNzR7y4Rb6V6Uk2fRk55mLBQ3IsMNeKQF+nwKWQk8tKItA8GCMYNQl3YfBlPRA3CTQburCx48a/bldeMPaQ==",
+        "shasum": "c647689796d5cfab0c50fe76ed38b0b7b3946182",
+        "tarball": "https://registry.npmjs.org/0xgank-tea-felt-pleasant/-/0xgank-tea-felt-pleasant-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 668,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIDHvS0F7ABEJb9HtlHx5f+Ts9H6Ya5vKQH0fiJINCk/QAiEAqJ/cgB2j4jsMESx7+2oXJJzbaKyV13Ccl1eA9gNFk/E="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "tukangngising",
+        "email": "pengisianlita@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "tukangngising",
+            "email": "pengisianlita@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0xgank-tea-felt-pleasant_1.0.0_1714640574216_0.4480296265593675"
+    },
+    "_hasShrinkwrap": false
+}
