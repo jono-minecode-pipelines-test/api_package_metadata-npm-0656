@@ -1,0 +1,46 @@
+{
+    "name": "1khbet-registratsiia-novogo-igrovogo-1xbet-registratsiya-ru-463frbve4",
+    "version": "1.0.0",
+    "description": "1khbet-registratsiia-novogo-igrovogo-1xbet-registratsiya-ru-463frbve4",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "abngn"
+    },
+    "license": "ISC",
+    "_id": "1khbet-registratsiia-novogo-igrovogo-1xbet-registratsiya-ru-463frbve4@1.0.0",
+    "_nodeVersion": "18.13.0",
+    "_npmVersion": "8.19.3",
+    "dist": {
+        "integrity": "sha512-odcoEUoHnt0IhxKyTUH4K2GIcQGer2hTrj1yf4HCT9dVBfw/+T4NeIjTdFiGQCbUhuNiMWCUiXEqRH66h7WFMw==",
+        "shasum": "d061b60aa66685c79aae687cb16a84133e8dbfd7",
+        "tarball": "https://registry.npmjs.org/1khbet-registratsiia-novogo-igrovogo-1xbet-registratsiya-ru-463frbve4/-/1khbet-registratsiia-novogo-igrovogo-1xbet-registratsiya-ru-463frbve4-1.0.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 6540,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCzoDq0fflE2vIpYKhQ8LowO54tbgO5KqF6iUe8piUcQwIgMOlS0ezmVKhM3xuiB5XJqlp8hZIfvS/ilkcugjK7U3Y="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJkQxILACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqGeBAAlLxQZ2XMZi/G4oP2DHWF4XO+qRECYztSWmFtep9bSw2lfxsV\r\nn5yfipKJEncmazjLf9r2egDlbW4yekLpwcoHQ/2Jk5ug4slyxhAs5DkaX4vC\r\nmfZiBS6cLmcfXeFvLv88eYn2FuchGuoc678lmAOW1kXS4kXjk5Q9HFE5JJi9\r\n+jq1IxDJTxc5mMPYB32Z0nn+/z/NpaqEbJD75gpFxOT7oApYrWSxfZx/h/W2\r\nYFdDP8/uYusWHCYpVAk6r0i8sPlYWDhdvXyGipHMbnW0b+KLGCLjmddDq5QS\r\nPhDNSAAcemWJl1eQ3Vv8xBLA9qZj2QvguRaUT95k1RSNODJpVj3gJWvzCOAE\r\n6CJXXgbOBY2KE9mLGrlBSHD0esM1/Hd1ovC6Djvy9S2KSziu/LIEwJTnkJxk\r\nbDeu6HLw63y/5FW64LUqDlkjblSQC4oEaDhKSibYv/C9ecyv637CMR0V+0XV\r\nkw0aN5ueHcoa9NZWPklTqVnr6UQcSc/gNG5isR6XXcrcKEeCNKXy0G36ifht\r\nJV3TP+NeLE6WIGRJYxEY8cKmW5xW1OCXFar1KFgm1D0/t4FIrfH/q0ydqryN\r\nJGZkkYclkVS+PkOezT+1YeK9QC90eqAhTuj6GfHAo+msVU00GQ8vCmTeGuVn\r\nlkRlI+nOF7MNrOqUlKGbF1oUrWBj7EDkTyg=\r\n=4xty\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "jweigokveycm",
+        "email": "jweigokveycm@pay-exchange.tech"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "jweigokveycm",
+            "email": "jweigokveycm@pay-exchange.tech"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1khbet-registratsiia-novogo-igrovogo-1xbet-registratsiya-ru-463frbve4_1.0.0_1682117131021_0.812771535760294"
+    },
+    "_hasShrinkwrap": false
+}
