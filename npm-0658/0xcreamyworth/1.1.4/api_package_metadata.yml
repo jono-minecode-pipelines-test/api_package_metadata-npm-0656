@@ -1,0 +1,71 @@
+{
+    "name": "0xcreamyworth",
+    "version": "1.1.4",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "react": "^18",
+        "react-dom": "^18",
+        "next": "14.1.3"
+    },
+    "devDependencies": {
+        "typescript": "^5",
+        "@types/node": "^20",
+        "@types/react": "^18",
+        "@types/react-dom": "^18",
+        "autoprefixer": "^10.0.1",
+        "postcss": "^8",
+        "tailwindcss": "^3.3.0",
+        "eslint": "^8",
+        "eslint-config-next": "14.1.3"
+    },
+    "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+    "main": "postcss.config.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/0xAsep/creamy.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/0xAsep/creamy/issues"
+    },
+    "homepage": "https://github.com/0xAsep/creamy#readme",
+    "_id": "0xcreamyworth@1.1.4",
+    "gitHead": "43b5eef89e8b543f5d39f1b12d4bb9a65ef27f7a",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-BTueJdg0HtdnLas7dDMVBbRj575ErhuG1xkgFDX3z/v7eyDUZBKqIWaCeYgxr6QUm6zOzmMqUqs9uvehKt7JCg==",
+        "shasum": "eb698a9c991f938e443ecb5da767d9d1ccb009e5",
+        "tarball": "https://registry.npmjs.org/0xcreamyworth/-/0xcreamyworth-1.1.4.tgz",
+        "fileCount": 13,
+        "unpackedSize": 38540,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIAwk1qIzOua8rol8BZYh026/jEf6HtwslqKVAmi9540WAiEAmReKhGxRd1RzRT+EAWW4YS1iY8idqhvNkIfFkBviYcM="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "creamy",
+        "email": "asepbintang099@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "creamy",
+            "email": "asepbintang099@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0xcreamyworth_1.1.4_1709802199238_0.04137984499939362"
+    },
+    "_hasShrinkwrap": false
+}

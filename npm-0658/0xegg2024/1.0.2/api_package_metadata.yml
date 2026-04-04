@@ -1,0 +1,72 @@
+{
+    "name": "0xegg2024",
+    "version": "1.0.2",
+    "description": "A bitcoin trading bot for auto trading at various exchanges",
+    "main": "README.md",
+    "license": "MIT",
+    "types": "README.md",
+    "homepage": "https://github.com/0xegg2020/0xegg2024",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/0xegg2020/0xegg2024.git"
+    },
+    "scripts": {
+        "build": "tsc",
+        "prebuild": "yarn clean",
+        "clean": "rimraf lib"
+    },
+    "dependencies": {
+        "bicycle-moose": "^1.0.1",
+        "wulskuuuu": "^3.0.3 ",
+        "nymuuwkhjh": "^3.0.5 ",
+        "ououoyou": "^2.0.2 ",
+        "woshinidada": "^2.1.4 ",
+        "liulaobanniu": "^2.0.1 ",
+        "nibanibak": "^1.0.2 ",
+        "sherlock007": "^1.20.1 ",
+        "sherlock008": "^3.21.6 "
+    },
+    "devDependencies": {
+        "@types/node": "^20.10.6",
+        "@types/qs": "^6.9.7",
+        "@types/ws": "^8.5.10",
+        "rimraf": "^3.0.2",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.1.3"
+    },
+    "_id": "0xegg2024@1.0.2",
+    "bugs": {
+        "url": "https://github.com/0xegg2020/0xegg2024/issues"
+    },
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-3U5Pk9nCLajGoW9FLn/FccCX+T7dSiiyUGu+ADsB9Htk2+JdDJjbfd5wg/hs/uDtcVHJEXKbA4boCV8E0pRb3w==",
+        "shasum": "0345856b85d14c56fe86c4c097719051f83c4962",
+        "tarball": "https://registry.npmjs.org/0xegg2024/-/0xegg2024-1.0.2.tgz",
+        "fileCount": 382,
+        "unpackedSize": 4513631,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCICJzphtdd/zdD1ZsZYq0BW0iEmqrZcd4m7oA+E/2v8iyAiApAFySPEP4Ep/SLuwraxoGt/eLSz35Y7RjvTxO9AwbJw=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "0xegg8888",
+        "email": "liufengzhu5489@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "0xegg8888",
+            "email": "liufengzhu5489@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0xegg2024_1.0.2_1710773004399_0.0914935504307457"
+    },
+    "_hasShrinkwrap": false
+}
