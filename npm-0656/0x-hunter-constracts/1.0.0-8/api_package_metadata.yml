@@ -1,0 +1,60 @@
+{
+    "name": "0x-hunter-constracts",
+    "version": "1.0.0-8",
+    "description": "",
+    "main": "dist/index.js",
+    "scripts": {
+        "tsc": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/0x-hunter/contracts.git"
+    },
+    "author": {
+        "name": "0x50fc@gmail.com"
+    },
+    "license": "BSD-3-Clause",
+    "bugs": {
+        "url": "https://github.com/0x-hunter/contracts/issues"
+    },
+    "homepage": "https://github.com/0x-hunter/contracts#readme",
+    "devDependencies": {
+        "ethereum-abi-types-generator": "^1.3.2",
+        "typescript": "^4.7.4",
+        "web3": "^1.7.5"
+    },
+    "gitHead": "d53041e0a2b9b076b940d5e2074c3152eb13e4de",
+    "_id": "0x-hunter-constracts@1.0.0-8",
+    "_nodeVersion": "16.17.0",
+    "_npmVersion": "8.15.0",
+    "dist": {
+        "integrity": "sha512-t/vNJTaCABePwL+fNL2zKRMxyLV4f4GzWzINaHDMXFJJmhgbYBaAQ275tKo2X3T8byd5NPjKIgqe7Zp3QplOWA==",
+        "shasum": "dd5580c9f31ce51513fb1a3ddae0492a5bf62d75",
+        "tarball": "https://registry.npmjs.org/0x-hunter-constracts/-/0x-hunter-constracts-1.0.0-8.tgz",
+        "fileCount": 19,
+        "unpackedSize": 61215,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCXdaMl+5vS8c4sAk0eJBheB38nYJh4+pNNHJaA4sSDbgIgZLlqbuGo8nki/lfJB86QtnpfrHCMC/mqInVQ3Ije6fQ="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjEyH2ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpxBRAAgUqCfgfsgwZHJ2ps1Rqw6vi9JPB449ljn2OlkJk5RjiAMsnQ\r\nwqaz74vbKaAIyvYU97WSY4zxTy6DvGluoyphegjxbvKbfFI92NzKdjox8Pg5\r\nuKe/SSk4705W9LGy6F0ZJhZgA2LW1xn3EVMfNsQpcY9W4m0XuT/x8MuRSAFO\r\n4FpxfoGjQuHOgAHBym/ar4UkZ29N+0KioZP63ZvGCiEoB7LMxpwz7HcfbANx\r\nfCyH5fnzIl8cy84pkFMp39lArpdskwXt8hPmDw1g2L59H3vaszjTRQYOSBwC\r\nDKaHYRyyNlIikVpSeZ12YLtSJqUuGhKP51G7qJ0lvVBwlhaPJFQGgo+yb/Iw\r\nYulCXKCFQfXfpilXIcPn9qVvg0jwpps77TNdxUM3lBEQxysCereB2prJk2FF\r\nHwaoohfdyX1mAgzj873m3NCeunS/++H/QvjsV37aD1NLunSPCKeZJl8dYSro\r\nBNlrPianGJXe6o5rPNbLM6hd5ExETt0KISimF/eeBYIpt7ZtNYgGzrzAIxh3\r\nP5HiLPUYQ6N6C9BYWUfnrOqOZOCYZ05x+8T+Mg9f6teZA/0wSxC0FNtrxWex\r\nWhXBkyyof5H9SOUq1QFYArQInW8xF7FZGjJ444dVQ8wI8pLu3pPTmmLZCe9+\r\nduF94df1bgbRCjM1vy2WdTUGEFKPAsBvB/4=\r\n=g49l\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "0x50fc",
+        "email": "0x50fc@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "0x50fc",
+            "email": "0x50fc@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0x-hunter-constracts_1.0.0-8_1662198262654_0.49302374584323294"
+    },
+    "_hasShrinkwrap": false
+}
