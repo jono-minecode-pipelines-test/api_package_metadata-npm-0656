@@ -1,0 +1,39 @@
+{
+    "name": "003-3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "003-3@1.0.0",
+    "_npmVersion": "5.3.0",
+    "_nodeVersion": "8.4.0",
+    "_npmUser": {
+        "name": "djp",
+        "email": "1577160207@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-87J3VCL5IaDLTD/ejfJilRBL/rPVPUDUyvNR5EdQg+IAJew9ru1lJW68y22o/8EWhwTfU2nZLRyGzen4ngofXw==",
+        "shasum": "4d35ad7740834d704bb18bcc8d02d56ab1e048ec",
+        "tarball": "https://registry.npmjs.org/003-3/-/003-3-1.0.0.tgz",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIG5XcnsOqKQcFoApepw2WsGpZMoME1qqAcDkGUA6eQerAiBk+B+EIWCCQ6Ai2owNDVkQQcWmQwDI7oKC7IBxbt6Guw=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "djp",
+            "email": "1577160207@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/003-3-1.0.0.tgz_1510572156483_0.852431622100994"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "01-frontend-lib",
+    "version": "1.0.1",
+    "description": "",
+    "main": "dist/bundle.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node main.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "@material-ui/core": "^4.8.1",
+        "@material-ui/icons": "^4.5.1"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.7.7",
+        "@babel/preset-env": "^7.7.7",
+        "@rollup/plugin-commonjs": "^11.0.0",
+        "@rollup/plugin-node-resolve": "^6.0.0",
+        "rollup": "^1.27.14",
+        "rollup-plugin-babel": "^4.3.3",
+        "rollup-plugin-node-builtins": "^2.1.2"
+    },
+    "gitHead": "e5a6a66d104d47623c05ae7aa94db6d2acd0a67c",
+    "_id": "01-frontend-lib@1.0.1",
+    "_nodeVersion": "13.5.0",
+    "_npmVersion": "6.13.4",
+    "dist": {
+        "integrity": "sha512-lhuDjcS2sTmw1HaBqaHmIuAwP6K3TD9eJfIJqz4HBjqeRQgvRq8ktCCB+ceVwoI2Y8mM2XL8bu1sRmFVxsazwA==",
+        "shasum": "76dec3f9d44ee0a25d9cda83be4a298d078a9927",
+        "tarball": "https://registry.npmjs.org/01-frontend-lib/-/01-frontend-lib-1.0.1.tgz",
+        "fileCount": 7,
+        "unpackedSize": 2665,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeD6VYCRA9TVsSAnZWagAAaugP/1t0zPtgpXJsg5XL4q2o\nqOgX88lsWh7zoKfD0rgt5xNn9a7sZmtItNUg9YzZKKMxlWRDrJLXl105Lij7\njVuR0GA1y4/BxR7X9WorPWl/AFbEF6198WXZ+BmoVTK95XWrebsm+v3f/cuP\nXhiEfIMOl2JvOiZ6lS9nS4Jhaapogodgo8PztJh/0xsY44fFx1SDVbsJdR0Z\n0c42BGHpF5v2OOSGu4utlyjAtOz6E7x2yXiZcNI9TtyINQaVIk94lerKzE1P\n6YCFeKgWPx59YXMU2uApGvMrusyTLTrHQikISN3YB4UY3GqesjXicJed+IW1\nrm1r4J6at0K7sFx6udNrurt8qzJ7Zlb3R2mYMfgMTIfX3WV+GUJlTGruviJ/\nW4JvikxFX4sryohjuGBSI6MbY8nXWiExtnrlq/lXXfbtGHlzDBe6SqJ3xOLd\nIHeJaxqiU+Y7xqw9tkOOtDOcKvcsTeFo55W1bn0TWVoTwoZfcTxV753TmxAq\nqzfeWS/GYxTpse3onYysgEXPjHzbPUbZiiCTyUIvdyY/oxft1V/M1Q3zplZw\nJrlO4NXySLvR8dEOVIvloU7Z9Ugqi3+9tvD8D6tbFfqlI1DYL5YLEdjXfiPz\nTgu1a2u6tSSsags/SlYv42MDvp0povLjUQFfwxqMOY49Wd3XS565el6IbWEX\nO3td\r\n=TkH3\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCICdtk5F/N+sxlqz8rMumt6X0IbUzJ9Pw9zDZsRNzHZeFAiAJhEiTWynikWFE+HgHfM9zbOXda4miTgf1bqr2rsjZjA=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "willianjedai",
+            "email": "willianjedai@gmail.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "willianjedai",
+        "email": "willianjedai@gmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/01-frontend-lib_1.0.1_1578083672572_0.7531842263007151"
+    },
+    "_hasShrinkwrap": false
+}

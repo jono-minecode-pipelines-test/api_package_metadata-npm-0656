@@ -1,0 +1,50 @@
+{
+    "name": "0.extends.electron",
+    "version": "1.0.65",
+    "author": {
+        "name": "nx"
+    },
+    "license": "MIT",
+    "scripts": {
+        "test": "echo $npm_package_name && echo $npm_package_version"
+    },
+    "dependencies": {
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "react-error-boundary": "3.1.1"
+    },
+    "gitHead": "dd4d5aea228d2d080f0be97ac5420f30f38639a4",
+    "_id": "0.extends.electron@1.0.65",
+    "_nodeVersion": "14.17.3",
+    "_npmVersion": "lerna/4.0.0/node@v14.17.3+x64 (win32)",
+    "dist": {
+        "integrity": "sha512-m6rbLZAZ213Ct5bk7fhec6W4LfnNxV4oqokkNTM9gr3VXgDW/1Xy8w/z2wHNTplgWlvmxOZ+kAKl/gpZvtfZGQ==",
+        "shasum": "d6be90cf1e817ffdb6c02297ea832fe8ab8d60b8",
+        "tarball": "https://registry.npmjs.org/0.extends.electron/-/0.extends.electron-1.0.65.tgz",
+        "fileCount": 9,
+        "unpackedSize": 22270,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhBcSvCRA9TVsSAnZWagAALhgQAIPMZbWbL7HxTRgFTHWU\nE48EZvGsGfl8ILwDat3/QJRZddyG3a1rEyMb63svI8wkOtT+wsumn6PHEldL\nzIcB8J+DZ8jRauG0FKTVjBgdftRyVpW0O0kzPQDj9D2mSUXHLzWJbtCP09q+\n7icyVATebaOqM7BUFlzsOKmdNb4B1XaYvMoUZEeZ56qCh7RTXcaqDVAdO/mO\netPFz7MX5IOutcaMNEvDiGp4pijlSTev+qnu1CEDBBXR1gfzBb585zDvs0Ub\nUFOCW7sNwV0gBEyevbxnfpQ0rO7u9WQ9fs9yiWfgy9JmBjI1JKwqf0y6+19P\nZavkpJYGgGqrl40pFv+NuaHYZTrSyRy18by0i3U9nsDQgq5NZIIFHXfyl06L\nmXh8WhE6iRcSrVmTnilaCA+jyMt1f8Ubs6j4FZLn/4lNgYIwCKyXJWL6B0AW\nXmTHUCQwqgCfMtZWBQHUtQFrsi4TBIcgEdJ4WAkUZEtWYSpWeCQmx7PmsZKU\nYToXZHvsXFaatedNqbj59a8FwJMkWWi3AG/g2ytEhDmwFz8WWKY2IXKgRyVM\nANHabS5MbeLIMWcR/PyGorHWNxhgkrEWEppAlKQq86QB3NhJWKUQt+2tFcVH\nm+OroM7CKlXBd3aemystSXHLSYffJdGpMCjycrJzxlBcu6SfvLIfR+QbjkfD\nuusS\r\n=rRgn\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCw+kRs1egyOALjItMN1wWuN/9w3oatHxPlHNvkdg7MdAIgRTSeUpZ2ZKlzUE8InILWowXMMExjdg4B829MBo7Mm6A="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "kitchens",
+        "email": "kitchens@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kitchens",
+            "email": "kitchens@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0.extends.electron_1.0.65_1627767983624_0.984173908083011"
+    },
+    "_hasShrinkwrap": false
+}
