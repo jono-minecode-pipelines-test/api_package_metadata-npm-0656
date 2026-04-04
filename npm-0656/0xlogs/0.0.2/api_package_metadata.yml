@@ -1,0 +1,45 @@
+{
+    "name": "0xlogs",
+    "version": "0.0.2",
+    "keywords": [],
+    "author": {
+        "name": "ShadyMoon",
+        "email": " shady.js "
+    },
+    "license": "ISC",
+    "_id": "0xlogs@0.0.2",
+    "maintainers": [
+        {
+            "name": "shadymoon",
+            "email": "tccraven2020@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "3618ceb6c9ba5c7f620d682b9c38c5bcdc729fdd",
+        "tarball": "https://registry.npmjs.org/0xlogs/-/0xlogs-0.0.2.tgz",
+        "fileCount": 5,
+        "integrity": "sha512-vLbafg4i+u5RjEaq7aQ1FBFkbR7IVIr7BCVUoTJrNyNz5ElfLwRiFaEYyBy1e3FP9frKatstGkUETJ5Pk5kRQA==",
+        "signatures": [
+            {
+                "sig": "MEUCIQCvTx3QIuWv9o4qshm5FEH+z3ghPIl2Fi4FZ6wXT7+QUgIgITTyuBOXLswJTFCIDEi8QX7ryzeWB/DgVHqy3Q7SAgg=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 4106
+    },
+    "main": "index.js",
+    "scripts": {},
+    "_npmUser": {
+        "name": "shadymoon",
+        "email": "tccraven2020@gmail.com"
+    },
+    "_npmVersion": "10.9.2",
+    "description": "Create logs easily and efficiently",
+    "directories": {},
+    "_nodeVersion": "23.6.0",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/0xlogs_0.0.2_1746841517889_0.3693508956600591",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

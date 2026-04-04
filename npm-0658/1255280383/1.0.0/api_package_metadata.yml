@@ -1,0 +1,54 @@
+{
+    "name": "1255280383",
+    "version": "1.0.0",
+    "description": "node.js\u6d4b\u8bd5\u6a21\u5757",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.13.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "make test",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/runoob/runoob.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/runoob/runoob/issues"
+    },
+    "homepage": "https://github.com/runoob/runoob#readme",
+    "_id": "1255280383@1.0.0",
+    "_shasum": "226947a42f614f97bc3bd94e6b5b77a83e500405",
+    "_from": ".",
+    "_npmVersion": "3.9.3",
+    "_nodeVersion": "6.2.0",
+    "_npmUser": {
+        "name": "18217788441",
+        "email": "18217788441@163.com"
+    },
+    "dist": {
+        "shasum": "226947a42f614f97bc3bd94e6b5b77a83e500405",
+        "tarball": "https://registry.npmjs.org/1255280383/-/1255280383-1.0.0.tgz",
+        "integrity": "sha512-ORx4ZuYr+hvnEthnGSUQ0bDFpAtE3Wip96qbXjyZPBEPhI8Pas0aYlOTXS/5IWdZ36x9w1gYA4jcphREhFRFVw==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDzQhv+h+2dVcX0Ungg9lu/Vm5DTFnYYNTTtANJ0v3ViQIhAP9iBU2iKzsSQ6MZ+G0Ldr6NgasW+N6HK5rk99Z2Ea7l"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "18217788441",
+            "email": "18217788441@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-16-east.internal.npmjs.com",
+        "tmp": "tmp/1255280383-1.0.0.tgz_1464777233538_0.6095225214958191"
+    }
+}

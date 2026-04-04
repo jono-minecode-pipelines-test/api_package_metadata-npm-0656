@@ -1,0 +1,56 @@
+{
+    "name": "1-client",
+    "version": "1.0.0",
+    "description": "http request object",
+    "main": "1-client.js",
+    "dependencies": {
+        "events": "^3.0.0",
+        "request": "^2.88.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "http"
+    ],
+    "author": {
+        "name": "wayne campbell"
+    },
+    "license": "ISC",
+    "_id": "1-client@1.0.0",
+    "_shasum": "999eacd00cf72b456a664e34353b5ca94817bec5",
+    "_from": ".",
+    "_npmVersion": "3.10.10",
+    "_nodeVersion": "6.14.4",
+    "_npmUser": {
+        "name": "waynecampbell2007",
+        "email": "waynecampbell2007@yahoo.co.uk"
+    },
+    "dist": {
+        "shasum": "999eacd00cf72b456a664e34353b5ca94817bec5",
+        "tarball": "https://registry.npmjs.org/1-client/-/1-client-1.0.0.tgz",
+        "integrity": "sha512-dFULFFjORE3NOlh1se77a3O+ROHemw+KSD8nxLprfBQe6ukPIWcJ+HDWK2Rg0JuwDK+JYYZEiv4BHqQzpXFWNQ==",
+        "fileCount": 15,
+        "unpackedSize": 147944,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbqAY7CRA9TVsSAnZWagAAtRgP/ipHVV7Ttiw87A/OZLEZ\nGUozSiG3AgbMXvuaS5jqJfNTYV+x7Q2EJ60gVyoxmrhn7HATG/2Qvp+n4UDZ\nBkPg8yemqZHaNDsUqP6nzKwaeHuD7DqpU4hyxYw6kKI7wqIYkwNUrQYQK0Ue\n0vrJxYzoNZBOvEPE6K/TxOUBmgl/5bsdRa1OxysqU6xC7a6OgadD4CCCjI+/\nuCHAISm7t6iMpztww7mxn+oDZl1kmxOo1UELGQFnz2bRFIsFT3VWehvaT8la\n8KFb6mO/y8dnpSTf+ptJ9HYnQ4ubjqN5jBMB3kGY+KcJKdZO3vlsFNiK5fO5\nICiQvKOP9gKAs6blqH7bQ4G+D24xg3+lj3elxv4JU/ratbSzbsTYANKqHyiD\nXVpr/p7rMT1sIx4k0Y0FLU0tySCVUVFi5MsKD7xOJ3XQfSDtpFoAwRM5QkwM\nGUdNjBIUGZaf0DtAJ1u3ChhxxxQkvobetabNRKmc5avk5uj0xkL8prJIxe2T\nAMjT+sucDPlVGPOECT5ygwnG+lFdQUzGYCfnZgesyUhs6YfNJBgHxBKsu3QH\nlu0Fq7Un74bUOIXEqYdcan2dyYS7oTYApOs3G/mfe93Vvzxee0V9UrxZBFfn\nuunPiG4nsoLMJAt9TOQrKd/rniGL7gjgWPkpNt/J1rsYKC0fgeVkOzRIWPuS\nSSge\r\n=RnH7\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDT74iwTbsatFM4yt5ff5YdfP03dkNpujQselEp0CvAkwIgQxBR4XNLX99hrTv5AFbCF5v/APMxTDRuWSJcc8dcDQU="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "waynecampbell2007",
+            "email": "waynecampbell2007@yahoo.co.uk"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1-client_1.0.0_1537738298815_0.7883772915276841"
+    },
+    "_hasShrinkwrap": false
+}

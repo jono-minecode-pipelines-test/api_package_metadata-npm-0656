@@ -1,0 +1,64 @@
+{
+    "name": "0xlogs",
+    "version": "0.0.3",
+    "keywords": [
+        "logging",
+        "log",
+        "logger",
+        "nodejs",
+        "json",
+        "file",
+        "process",
+        "debug",
+        "error",
+        "warn",
+        "info"
+    ],
+    "author": {
+        "name": "ShadyMoon",
+        "email": "shady.js"
+    },
+    "license": "ISC",
+    "_id": "0xlogs@0.0.3",
+    "maintainers": [
+        {
+            "name": "shadymoon",
+            "email": "tccraven2020@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/ShadyM00n/0xlogs#readme",
+    "bugs": {
+        "url": "https://github.com/ShadyM00n/0xlogs/issues"
+    },
+    "dist": {
+        "shasum": "478beec723de2ea332bcd60ab78a1ceb313a86ca",
+        "tarball": "https://registry.npmjs.org/0xlogs/-/0xlogs-0.0.3.tgz",
+        "fileCount": 8,
+        "integrity": "sha512-Y/5I0S5BOqGKEXzfd2N6gz9ur3LPqy5P70vnAbB8WfcGSFRM/Wx/UbIFeXlQDsu+kPbKg68vTtU1FuGLQC4DOQ==",
+        "signatures": [
+            {
+                "sig": "MEUCIHU1j2sYMrkg/THtJQ0C2tdwKhwkJaGofjQhD4jbSZbGAiEAhRBR+ukWujqvMZ+VhuSrn6L2Rv/tVKBvPiL0e08kb3I=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 9401
+    },
+    "main": "index.js",
+    "_npmUser": {
+        "name": "shadymoon",
+        "email": "tccraven2020@gmail.com"
+    },
+    "repository": {
+        "url": "git+https://github.com/ShadyM00n/0xlogs.git",
+        "type": "git"
+    },
+    "_npmVersion": "10.9.2",
+    "description": "Lightweight and configurable logging utility for Node.js with JSON support and file logging.",
+    "directories": {},
+    "_nodeVersion": "23.6.0",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/0xlogs_0.0.3_1746999292944_0.9710786181977451",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}

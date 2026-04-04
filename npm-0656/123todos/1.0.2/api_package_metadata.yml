@@ -1,0 +1,51 @@
+{
+    "name": "123todos",
+    "version": "1.0.2",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "123todos": "todo.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.12.2"
+    },
+    "_id": "123todos@1.0.2",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-oouT/ZI0u955ooD5apXXWfL9VRXYWmmShA/xC3GuMwamG76AZvgkFTCkEOFkG4CdZg6sxX5GxdSjQOvutmwfGQ==",
+        "shasum": "1ea203a4789434341b52fda12f1ab9bfbc9a7fd3",
+        "tarball": "https://registry.npmjs.org/123todos/-/123todos-1.0.2.tgz",
+        "fileCount": 4,
+        "unpackedSize": 16591,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCICqhX6ejwnEYHmKb0nDAqcGEWH1ZtkFKLxnkOOFXCZTBAiEA0gh9oUiZH/CjkFYiG8p5fBxij3FMNS4AqXdfXL2EWtI="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "nadeemaysha37",
+        "email": "nadeemaysha37@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "nadeemaysha37",
+            "email": "nadeemaysha37@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/123todos_1.0.2_1711870536887_0.7080329224596129"
+    },
+    "_hasShrinkwrap": false
+}

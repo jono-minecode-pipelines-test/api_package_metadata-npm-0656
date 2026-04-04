@@ -1,0 +1,50 @@
+{
+    "name": "12.31lianx",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "koa-router": "^7.4.0",
+        "koa-static": "^5.0.0",
+        "mysql": "^2.17.1"
+    },
+    "_id": "12.31lianx@1.0.0",
+    "_nodeVersion": "12.13.1",
+    "_npmVersion": "6.12.1",
+    "dist": {
+        "integrity": "sha512-Swhfpi9RSwBFIVZYR72dFaSP4kCzHJ/F5aSaPN25uRUkh5iQ2/FjrxcsQZeXwXSKFSgXkr2Xdx1jSjjY67WWzQ==",
+        "shasum": "cf9ff1e6e686ae0ae6dda201139a21a50c79fde2",
+        "tarball": "https://registry.npmjs.org/12.31lianx/-/12.31lianx-1.0.0.tgz",
+        "fileCount": 6,
+        "unpackedSize": 2975,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeDI9NCRA9TVsSAnZWagAAQYAP/i+ZoXoe7joBmzPUF+sG\ndBrn0YAbAVR34cFe7awwuCWMOd2E+pXdQb1ybZOlgJEWGhoQhyn+Y/y4xZd+\n/S/ZBt9Hh+Jb4w7jr0CspVMCyu0Tg6m7iSLCKaeP/+143c/A6WFg6mOC25Cg\nO8dF2Lzd5y6voPiZ66vI/2BHAgXf7iYYC7mSc446tq9S8bkv1TaTSroAG8E/\nUZbfL8nma/XBbf1SDL1xgNtrPiTuAPgOW5IR3pFzmdUrwTVUla2DUXoi2aEs\nNeQLDEQOrjIqQLm5IPLXuAQcwmlKXO+Ucyaje+5p/ooAV2yzrWmjd8f/41/0\nY9WNFPpF69x41ScB2+949GaDk59OKzN4ChYl03oAdheT2QdJMTr0qUhIH8LT\npuclqLhiarh6QQ1s0lOhMOvJGcWv8z6Lyh8OBZ2U6XF6xWMHBeMnYFbEZbSp\nZmfGmNy1mbRiJ8OjLom9nE/jRDbqXOaqvO0chdJ0Mp0pAo2lv2JrAom5hRW2\nkCbYLtIVl+dgWX+J4yxzWjlP1Qy8HkTkU3QkVS1wrjb25KlIcV3LhR4xtaJc\nJpm17rbpzzYQ5fDS4YHV+BGKFdmsW38WcRzg6Va++Mhp4jUf73aVeDdIhk09\nQsLZo9xK3Ce+m1rO7fyNlqZx4eBKardpI3r82MPcxrUisiET9O9cWYn+rErI\nwNQP\r\n=lChH\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIChk/DOLYtsqbNuK9XNa4rZYK/V9KRKY6eKA6TSpy16GAiBABGS4doth/62dMK/7fOoyIgbpQE4ZPS9jatNd7U8M/Q=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "ls713",
+            "email": "976550382@qq.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "ls713",
+        "email": "976550382@qq.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/12.31lianx_1.0.0_1577881420606_0.6295136402456643"
+    },
+    "_hasShrinkwrap": false
+}

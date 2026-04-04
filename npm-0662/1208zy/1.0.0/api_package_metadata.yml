@@ -1,0 +1,45 @@
+{
+    "name": "1208zy",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "1208zy@1.0.0",
+    "_nodeVersion": "14.7.0",
+    "_npmVersion": "6.14.7",
+    "dist": {
+        "integrity": "sha512-6+uISr8J/qptconJVe5nsfhhsXFu9JKDIfOXziHFTwNpSmdLDZ5KK3PI/Nh5oBI/GH37o5E77HlEIElUKM5j4w==",
+        "shasum": "46e758af9f41b64d6f8d25bad4d5c79180a98da4",
+        "tarball": "https://registry.npmjs.org/1208zy/-/1208zy-1.0.0.tgz",
+        "fileCount": 6,
+        "unpackedSize": 1008,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJfz2SVCRA9TVsSAnZWagAAegwP/1GsY+RrCeQuA/Pi2KYd\nZpIsQnK1+6pDVGt5FpQYzGPGv9cEqawPi149Ah4LHLge7fgNMYfhdSMs6mzg\nkuJun72dTmCa1GvOb1/gD53bzRLOA7QP8Jdz49GRjQda/8IFL4JeSQn2SMU9\noz946jHKlKk4vuIi6ubqNPrSkrbBNAdVyeAXUjtyL1iXuxaUjKAZNRjUx152\nZiL97hXoaHL7n/mAcaVFJe4vR0qfPhsX3XDswOjXHtnoDzVrMC0aUoG566kw\n6TgnjevdZbD3LDf04zjguxEJpJFYvgwFS/nduLTxn+ChxYKRpcVAQfuggsvD\nitY8WAqMklroUGI4QESSE79MuJjs5l6rZ8scBnkQraIk1mByIXoj4+aIF8SV\nlBDVKwqFhr8HwIUQjHbK0PJVuyTiMfcc3v7Tuc7qbwcHV66z73XsihTltXmJ\nfIO/420/a6CJLFo4cYNjAPLfiE1ahMsUbe2JlUPZQCde6xuKbkaXdNYA9CfO\n1glSufHhkKiyHQNmFUcUXIMikPVkW4Ae7xha2sMye80dVZMGcRAFEXS8z/1S\nBU2aVfL3RfStgPZ1n8t+zdPXk6eNS04rdGy7Twzd59wivx/pRfsnZDbgoTuS\nMHaDFInyno1SPZUHIb1xb+Pz9FPGCA+Hvn7FXMaMDPfMN9xUwZhNpJVvpAIZ\nYu6H\r\n=5PUn\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCN+o9YcrplHdFL2QL3azNdAF6J9MNTN8sz2wyDFsFmBAIgL+JDNfJkdwTRMpnMqGVbARel4cNuST0DR6YnVeRywRU="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "zhaozixian",
+        "email": "1653093985@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "zhaozixian",
+            "email": "1653093985@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1208zy_1.0.0_1607427221015_0.8059376255050437"
+    },
+    "_hasShrinkwrap": false
+}
