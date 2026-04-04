@@ -1,0 +1,41 @@
+{
+    "name": "1510bwangdawei",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "1510bwangdawei@1.0.0",
+    "_npmVersion": "5.3.0",
+    "_nodeVersion": "8.4.0",
+    "_npmUser": {
+        "name": "wdw",
+        "email": "1073574893@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-6OOaUKSm38R3eyaMP4FyZdrFRDoaaFDqqsqHnR3RHl2aO+UO09jzSnm57gzF+Aj0JgRxaCpD5eAh7jIP40xKOw==",
+        "shasum": "733cda962dd329e309bb909437fee45ea2e2c0cd",
+        "tarball": "https://registry.npmjs.org/1510bwangdawei/-/1510bwangdawei-1.0.0.tgz",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCICa5e9nLKyS0acnJWwj1SQm8UAAJNmWUBMOd6llAcjqPAiARWp9WhACredueUxNcOQXC8N91TF2WIXUKlFPrV8b+9Q=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "wdw",
+            "email": "1073574893@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1510bwangdawei-1.0.0.tgz_1507515662595_0.07735254266299307"
+    }
+}

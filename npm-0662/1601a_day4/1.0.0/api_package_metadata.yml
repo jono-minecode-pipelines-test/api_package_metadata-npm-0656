@@ -1,0 +1,39 @@
+{
+    "name": "1601a_day4",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "1601a_day4@1.0.0",
+    "_npmVersion": "5.5.1",
+    "_nodeVersion": "8.9.3",
+    "_npmUser": {
+        "name": "yk1601",
+        "email": "17777861280@163.com"
+    },
+    "dist": {
+        "integrity": "sha512-jZndiRwEOb3AXy69KwkGvmauWyePnYOMTj+5RdrgKpgdWlyiE00IYg0mGszfqi5mS5wR0pGIanfaKkshYWySjA==",
+        "shasum": "ab5a58a4e50a31f743102b2b54164db566e9ce9d",
+        "tarball": "https://registry.npmjs.org/1601a_day4/-/1601a_day4-1.0.0.tgz",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIDgecSYBDmYJ7/k+ph/Lcnsw36pCAZTuoUDHxlJBramAAiEAzc9r8s+r3W6eCszba9DKZLdmySzlqfT72dHdqq28IVs="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "yk1601",
+            "email": "17777861280@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/1601a_day4-1.0.0.tgz_1514511232625_0.7333292891271412"
+    }
+}
