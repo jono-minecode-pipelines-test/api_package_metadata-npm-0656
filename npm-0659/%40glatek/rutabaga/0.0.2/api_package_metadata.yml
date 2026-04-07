@@ -1,0 +1,80 @@
+{
+    "name": "@glatek/rutabaga",
+    "version": "0.0.2",
+    "description": "JSON Schema-backed CRUD operations in Service Workers with IndexedDB.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "test": "vitest",
+        "biome": "npx @biomejs/biome check ./src",
+        "biome:fix": "npx @biomejs/biome check --apply ./src"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Glatek/rutabaga.git"
+    },
+    "keywords": [
+        "json",
+        "schema",
+        "crud",
+        "serivce",
+        "worker",
+        "indexeddb"
+    ],
+    "author": {
+        "name": "Jeremy Karlsson",
+        "email": "jeremy@barlingshult.se"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Glatek/rutabaga/issues"
+    },
+    "homepage": "https://github.com/Glatek/rutabaga#readme",
+    "devDependencies": {
+        "@biomejs/biome": "^1.5.0",
+        "@vitest/browser": "^1.2.0",
+        "ajv": "^8.12.0",
+        "ajv-formats": "^2.1.1",
+        "dexie": "^3.2.4",
+        "playwright": "^1.40.1",
+        "vite": "^5.0.11",
+        "vite-plugin-dts": "^3.7.1",
+        "vitest": "^1.2.0"
+    },
+    "_id": "@glatek/rutabaga@0.0.2",
+    "gitHead": "d99062f6184d4e844ce33b74678dbc366dea42e5",
+    "_nodeVersion": "18.18.2",
+    "_npmVersion": "9.8.1",
+    "dist": {
+        "integrity": "sha512-+KiHEAHDqhYfuqchCIYKZuABv/3Vpe72a7o5SIGCAmpblcxTpa9x9CHsoR75DYtX8PXyfNoYALOOaokGBfa47Q==",
+        "shasum": "b1c429fb992a9a8ffc9094fabb560f80718c9268",
+        "tarball": "https://registry.npmjs.org/@glatek/rutabaga/-/rutabaga-0.0.2.tgz",
+        "fileCount": 9,
+        "unpackedSize": 291911,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCS74z+Aow2yrTKAi+S7Ypp/2B7tuiugiXmfav7Ns1QWQIgMWzP4EpvMVQSyvlOeHnl8Ye/+R8VMqUqs/kee8ngVKg="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "karlsson",
+        "email": "karlsson@jeremy.se"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "karlsson",
+            "email": "karlsson@jeremy.se"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/rutabaga_0.0.2_1705606625655_0.44837214141493664"
+    },
+    "_hasShrinkwrap": false
+}
