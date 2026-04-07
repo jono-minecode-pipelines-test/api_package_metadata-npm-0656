@@ -1,0 +1,60 @@
+{
+    "name": "coding-help",
+    "version": "1.0.0",
+    "description": "This module is very useful for getting help with features that JavaScript doesn't provide!",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arnavthorat78/Coding-Help-Module.git"
+    },
+    "main": "./src/index.js",
+    "types": "./src/index.d.ts",
+    "keywords": [
+        "extra",
+        "functionality",
+        "javascript",
+        "nodejs",
+        "npm",
+        "arnavcoder",
+        "help",
+        "coding"
+    ],
+    "gitHead": "3106a8501cc5bf18db9ab255891f8129f4cecbd0",
+    "bugs": {
+        "url": "https://github.com/arnavthorat78/Coding-Help-Module/issues"
+    },
+    "homepage": "https://github.com/arnavthorat78/Coding-Help-Module#readme",
+    "_id": "coding-help@1.0.0",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "7.18.1",
+    "dist": {
+        "integrity": "sha512-ncHq3qaJy9qMhwW/HoaIZx+kxw065kshgcqKZNOesTqD4VUuD1tprhhCNKLmdy/Tb/OkLGVpnh1VaMJSBm20RA==",
+        "shasum": "bf479b268c0dd5cd712bc82f56c7af6b30ac2301",
+        "tarball": "https://registry.npmjs.org/coding-help/-/coding-help-1.0.0.tgz",
+        "fileCount": 6,
+        "unpackedSize": 5099,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCi0l7k1F2mxOr5boJgYHwsOMerPUeYeBEJzoxVtxc3hgIhAPFAmtfearilajAmbbjY880WaNpZFeXb4/2AnFXY4BHk"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "arnavcoder",
+        "email": "arnavthorat78@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "arnavcoder",
+            "email": "arnavthorat78@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/coding-help_1.0.0_1632041729223_0.6849654058705197"
+    },
+    "_hasShrinkwrap": false,
+    "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+}

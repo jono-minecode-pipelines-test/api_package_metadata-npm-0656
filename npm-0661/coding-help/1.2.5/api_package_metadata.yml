@@ -1,0 +1,65 @@
+{
+    "name": "coding-help",
+    "version": "1.2.5",
+    "description": "Get features that NodeJS doesn't provide!",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arnavthorat78/Coding-Help-Module.git"
+    },
+    "main": "./src/index.js",
+    "types": "./src/index.d.ts",
+    "keywords": [
+        "extra",
+        "nodejs",
+        "npm",
+        "arnavcoder",
+        "help",
+        "coding",
+        "math",
+        "boolean",
+        "number",
+        "string",
+        "array",
+        "validator"
+    ],
+    "gitHead": "4a580f0fd3fde80e53e544ef15fbdafb94a5e627",
+    "bugs": {
+        "url": "https://github.com/arnavthorat78/Coding-Help-Module/issues"
+    },
+    "homepage": "https://github.com/arnavthorat78/Coding-Help-Module#readme",
+    "_id": "coding-help@1.2.5",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "7.18.1",
+    "dist": {
+        "integrity": "sha512-U//gpxeRh9yL3UNO3aYVmmnZHwCKoagmhrkfWNFEeX/BnfB2GBon4pqsH+COZ2Atai44unUPD05iKpgpaWYHPw==",
+        "shasum": "a7456ebc49279613112b13fe61b8d8eddae05471",
+        "tarball": "https://registry.npmjs.org/coding-help/-/coding-help-1.2.5.tgz",
+        "fileCount": 20,
+        "unpackedSize": 95821,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh2mYUCRA9TVsSAnZWagAADN8P+wfvzoFyccHqu9TMe2DC\n0L4O7fEVNfbo1HuP+1G2Oy0Msy2PFsq35sPdZIW1dkjYnY52OBAK93njtPdC\nrGga9th9Z0C6sAyOn04VsNm8g2VcPrVOttL9CzrOOljtuUtjvrJ/6r+PVVxB\nmtlPJMM7UIzUjwPzF5IzF3AUPNW3QQpS+iT9gYoqDm/iYbFPuXrtheq4apmV\nFLVsEuSm9KI5uhCAKI9Sa3iHEKdTT1GGSqQJhMu3BANaU4eO3OdO8oqm0L/X\nmWqqpIs3SkrEwRyEDzm8RBadXepNVnXR8GywjEDkIF1CDamwAUtwPMxHETAF\nAlu2pQsZ5N1cEwUU9XoteQkwaRklEXq6tZKu81mPzifCPq7SGxmJrFsitnoX\nRlzq2u8XhZTG7HxXCuH5coF6592IfFmlsIrptZeojF3kORKvdn/0lG0cfm99\n8Kz5cjQgUyMm3ErD4f+v8vOtPZD5MM5dVWUtpvtGEpLFboAYREurnMXW3m6s\n0uL4cT/1t7qxkRGpYQeiLphc8RG6D3cxQja8xfmIjj3QywvrnM0Kyx+FdkP6\n4wfDzivjOW1ffwg7LnR4GWMboATmtpyt3wx7rhb7b5EUz5eRdi1hBv7fXbXk\n2gJe2fqehGTHlZsdwnzSAegyoo/cMk1SDVsgDonvsVJ3Jq6ScD4cyfvlkJv1\nuU06\r\n=z+dG\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCDy5RE+fRPEkwZNmM7aL7JQYSjdmmTJe1/dElulIs/LgIgKF9c0H3dkp2jLyaGOQbV0eOkbWUXDy0mAHhQe65d/W4="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "arnavcoder",
+        "email": "arnavthorat78@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "arnavcoder",
+            "email": "arnavthorat78@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/coding-help_1.2.5_1632439815718_0.4787464917260622"
+    },
+    "_hasShrinkwrap": false,
+    "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+}

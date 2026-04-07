@@ -1,0 +1,59 @@
+{
+    "name": "coding-help",
+    "version": "1.1.5",
+    "description": "This module is very useful for getting help with features that JavaScript doesn't provide!",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arnavthorat78/Coding-Help-Module.git"
+    },
+    "main": "./src/index.js",
+    "types": "./src/index.d.ts",
+    "keywords": [
+        "extra",
+        "nodejs",
+        "npm",
+        "arnavcoder",
+        "help",
+        "coding",
+        "math"
+    ],
+    "gitHead": "ad8b42506b33f1467f4f1d7ce2c9a80ea64ac1c3",
+    "bugs": {
+        "url": "https://github.com/arnavthorat78/Coding-Help-Module/issues"
+    },
+    "homepage": "https://github.com/arnavthorat78/Coding-Help-Module#readme",
+    "_id": "coding-help@1.1.5",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "7.18.1",
+    "dist": {
+        "integrity": "sha512-k5AZ8w3e/Dh9TUkXSXWshfzC5cklRrTxjIQzD3Yao3FaCN2Oq5kjiJKG7heNTUxzsqZHsdS9Fb0FI7hDaECx5g==",
+        "shasum": "a158c958b6ab19be1e576ec8c61b28b39a9522d4",
+        "tarball": "https://registry.npmjs.org/coding-help/-/coding-help-1.1.5.tgz",
+        "fileCount": 12,
+        "unpackedSize": 32890,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIFMjVQ326eoAEde0WaAAEW0KSAI8LSKmNSDjXMa9OPIQAiEAvnxns1xmAe7clIZWADmFUex+xcj572bZhtwRzM5mTHw="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "arnavcoder",
+        "email": "arnavthorat78@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "arnavcoder",
+            "email": "arnavthorat78@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/coding-help_1.1.5_1632180519681_0.5736204053610672"
+    },
+    "_hasShrinkwrap": false,
+    "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+}

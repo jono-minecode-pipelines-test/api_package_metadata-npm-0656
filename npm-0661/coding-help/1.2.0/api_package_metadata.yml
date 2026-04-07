@@ -1,0 +1,62 @@
+{
+    "name": "coding-help",
+    "version": "1.2.0",
+    "description": "Get features that NodeJS doesn't provide!",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arnavthorat78/Coding-Help-Module.git"
+    },
+    "main": "./src/index.js",
+    "types": "./src/index.d.ts",
+    "keywords": [
+        "extra",
+        "nodejs",
+        "npm",
+        "arnavcoder",
+        "help",
+        "coding",
+        "math",
+        "boolean",
+        "number",
+        "string"
+    ],
+    "gitHead": "e58cea2c571154e1d1ccbc2510663bf2e85a3e66",
+    "bugs": {
+        "url": "https://github.com/arnavthorat78/Coding-Help-Module/issues"
+    },
+    "homepage": "https://github.com/arnavthorat78/Coding-Help-Module#readme",
+    "_id": "coding-help@1.2.0",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "7.18.1",
+    "dist": {
+        "integrity": "sha512-5LucVt+VprQcbLxuwD3InfXV4N5pK1pYaf/wtQxvZoZaZtLSKhPAaHTcOJ49CevlqL2xiNiYOBKuECPsUMQaxg==",
+        "shasum": "5bafadf743316f68f015e96d582426841dcabf4f",
+        "tarball": "https://registry.npmjs.org/coding-help/-/coding-help-1.2.0.tgz",
+        "fileCount": 16,
+        "unpackedSize": 74212,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCICOgDFqKwQLW/89wgKhik4xu5wj3xWubxHLc5X8XZaSVAiAGHCTuzl5PMkBmNp4j/SnloIax+ImaBngw+jmzRtbm1w=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "arnavcoder",
+        "email": "arnavthorat78@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "arnavcoder",
+            "email": "arnavthorat78@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/coding-help_1.2.0_1632286799314_0.9500930734892468"
+    },
+    "_hasShrinkwrap": false,
+    "deprecated": "Package no longer supported. Contact Support at https://www.npmjs.com/support for more info."
+}
